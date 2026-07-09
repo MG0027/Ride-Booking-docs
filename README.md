@@ -1,6 +1,6 @@
 # Ride Booking Platform
 
-A microservices-based ride booking platform built using Spring Boot, PostgreSQL, Kafka, Docker, and Kubernetes.
+A microservices-based ride booking platform.
 
 ## Documentation
 - [Project Presentation](./Ride-Booking-Platform.pdf)
